@@ -12,8 +12,8 @@
 <div>
  
   <a href="https://github.com/janinefr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=janinefr&theme=dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinefr&layout=compact&langs_count=8&theme=dark"/>   
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=janinefr&theme=dark&show_icons=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinefr&layout=compact&langs_count=8&theme=dark"/>   
 </div>
   
   <div style="display: inline_block"><br>
