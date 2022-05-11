@@ -1,4 +1,4 @@
-<img align="right" height="200" alt="jangif" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
+<img align="right" height="180" alt="jangif" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
 
 
 ### Olá, eu sou a Janine de França!
@@ -31,6 +31,9 @@
   <a href = "mailto:janine.freire@academico.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janine-de-fran%C3%A7a-001976190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation](https://github.com/janinefr/janinefr/blob/output/github-contribution-grid-snake.svg)
-    
   </div>
+ 
+ ### Commits:
+  
+  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+
