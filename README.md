@@ -4,8 +4,6 @@
 
 - 📚 Hoje trabalho como Estagiária na UFPB
 - 💻 Estudando Ciência de Dados e Inteligência Artificial - UFPB
-- 🎵 Nas horas vagas toco violão, guitarra e canto.
-
 
 
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
