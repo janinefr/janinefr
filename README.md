@@ -1,5 +1,3 @@
-<img align="right" height="180" alt="jangif" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
-
 
 ### Olá, eu sou a Janine de França!
 
@@ -33,7 +31,4 @@
     
   </div>
  
- ### Commits:
-  
-  ![Snake animation](https://github.com/janinefr/janinefr/blob/output/github-contribution-grid-snake.svg)
 
