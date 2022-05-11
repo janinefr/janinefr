@@ -1,5 +1,5 @@
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
+
 ### Olá, eu sou a Janine de França!
 
 - 📚 Hoje trabalho como Estagiária na UFPB
@@ -22,6 +22,7 @@
   <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
   
 </div>
   
