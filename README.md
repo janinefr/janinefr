@@ -35,5 +35,5 @@
  
  ### Commits:
   
-  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/janinefr/janinefr/blob/output/github-contribution-grid-snake.svg)
 
