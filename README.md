@@ -2,7 +2,7 @@
 
 ### Olá, eu sou a Janine de França!
 
-- 📚 Hoje trabalho como Estagiária na UFPB
+- 📚 Hoje estudo front-end, back-end e python
 - 💻 Estudando Ciência de Dados e Inteligência Artificial - UFPB
 
 
