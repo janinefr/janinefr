@@ -2,8 +2,8 @@
 
 ### Olá, eu sou a Janine de França!
 
-- 📚 Hoje estudo front-end, back-end e python para análise de dados
-- 💻 Estudando Ciência de Dados e Inteligência Artificial - UFPB
+- Hoje estudo front-end, back-end e python para análise de dados
+- Estudando Ciência de Dados e Inteligência Artificial - UFPB
 
 
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
