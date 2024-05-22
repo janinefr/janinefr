@@ -15,15 +15,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinefr&layout=compact&langs_count=8&theme=dark"/>   
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Dana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-  <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-  <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <img align="center" alt="jan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://media.discordapp.net/attachments/757294508479086702/973914941507661904/picasion.com_5e37bd6526ffe91c0dd4634074443913.gif">
-  
-</div>
   
   ##
   
