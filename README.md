@@ -4,9 +4,6 @@
 
 - Estudando Ciência de Dados e Inteligência Artificial - UFPB
 
-
-🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
-
 <div>
  
   <a href="https://github.com/janinefr">
