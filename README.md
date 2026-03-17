@@ -2,7 +2,7 @@
 
 ### Olá, eu sou a Janine de França!
 
-- Estudando Ciência de Dados e Inteligência Artificial - UFPB
+- Bacharela em Ciência de Dados e Inteligência Artificial - UFPB
 
 <div>
  
