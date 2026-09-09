@@ -6,7 +6,7 @@ Bacharela em Ciência de Dados e Inteligência Artificial, formada pela Universi
 
 Minha trajetória inclui atuação em desenvolvimento Front-end e, atualmente, foco em Ciência de Dados, utilizando Python, SQL, Power BI e técnicas de Machine Learning para transformar dados em informações úteis para o negócio.
 
-Durante a graduação, desenvolvi projetos envolvendo inteligência artificial, processamento de áudio, visão computacional e aprendizado profundo, incluindo um trabalho de pesquisa sobre transferência de timbre musical utilizando CycleGANs. Também participei de projetos de extensão, hackathons e iniciativas voltadas à inovação tecnológica.
+Durante a graduação, desenvolvi projetos envolvendo inteligência artificial, processamento de áudio, visão computacional e aprendizado profundo. Também participei de projetos de extensão, hackathons e iniciativas voltadas à inovação tecnológica.
 
 <div>
  
