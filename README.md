@@ -2,7 +2,7 @@
 
 ### Olá, eu sou a Janine de França!
 
-- Bacharela em Ciência de Dados e Inteligência Artificial, formada pela Universidade Federal da Paraíba (UFPB), com experiência em desenvolvimento de soluções baseadas em dados, análise de informações e criação de dashboards para apoio à tomada de decisão.
+Bacharela em Ciência de Dados e Inteligência Artificial, formada pela Universidade Federal da Paraíba (UFPB), com experiência em desenvolvimento de soluções baseadas em dados, análise de informações e criação de dashboards para apoio à tomada de decisão.
 
 Minha trajetória inclui atuação em desenvolvimento Front-end e, atualmente, foco em Ciência de Dados, utilizando Python, SQL, Power BI e técnicas de Machine Learning para transformar dados em informações úteis para o negócio.
 
